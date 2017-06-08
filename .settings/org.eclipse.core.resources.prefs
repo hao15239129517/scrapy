@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//gaoxiao/items.py=utf-8
+encoding//gaoxiao/middlewares.py=utf-8
+encoding//gaoxiao/pipelines.py=utf-8
+encoding//gaoxiao/settings.py=utf-8
+encoding//gaoxiao/spiders/CnblogSpider.py=utf-8
+encoding//gaoxiao/spiders/GaoXiaoSpider.py=utf-8
+encoding//gaoxiao/spiders/doubanmovieSpider.py=utf-8
